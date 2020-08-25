@@ -1,0 +1,15 @@
+.DS_Store
+
+# Code environnement
+.vscode
+.idea
+
+# Python
+**/__pycache__
+
+# Jupyter Notebooks
+.ipynb_checkpoints
+**/*.ipynb
+
+# Large files
+*.png
