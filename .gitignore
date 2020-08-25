@@ -6,6 +6,7 @@
 
 # Python
 **/__pycache__
+sandbox.py
 
 # Jupyter Notebooks
 .ipynb_checkpoints
