@@ -55,6 +55,7 @@ prometheus-client==0.8.0
 prompt-toolkit==3.0.6
 psycopg2-binary==2.8.5
 ptyprocess==0.6.0
+pyarrow==1.0.1
 pycparser==2.20
 Pygments==2.6.1
 pyparsing==2.4.7
@@ -73,6 +74,7 @@ testpath==0.4.4
 thrift==0.13.0
 toml==0.10.1
 tornado==6.0.4
+tqdm==4.48.2
 traitlets==4.3.3
 urllib3==1.25.10
 virtualenv==20.0.31
