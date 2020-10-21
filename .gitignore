@@ -14,3 +14,7 @@ sandbox.py
 
 # Large files
 *.png
+
+# Data files
+*.csv
+*.parquet
