@@ -16,3 +16,9 @@
 
 1. run `git branch -d branch-name` to delete the branch locally
 2. run `git fetch --prune` to delete the reference to the remote branch
+
+
+## Create a local branch and add it to the remote
+
+1. run `git checkout -b branch-name`
+2. run `git push -u origin branch-name`
