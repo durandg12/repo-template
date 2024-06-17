@@ -22,3 +22,5 @@ sandbox.py
 # R
 .Rproj.user
 repo-template.Rproj
+.RData
+.RHistory
