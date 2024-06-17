@@ -10,7 +10,7 @@
 1. create a remote repo with the same name
 2. run `git remote add origin git@github.com/gitlab.com:username/repo-name.git`
 3. remember to fill both `username` and  `repo-name`!
-4. run `git push --set-upstream origin master`
+4. run `git push --set-upstream origin main`
 
 ## Delete a local branch that has been deleted from the remote
 
