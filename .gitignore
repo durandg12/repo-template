@@ -18,3 +18,7 @@ sandbox.py
 # Data files
 *.csv
 *.parquet
+
+# R
+.Rproj.user
+repo-template.Rproj
